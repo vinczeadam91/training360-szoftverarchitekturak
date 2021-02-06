@@ -8,7 +8,7 @@
 ![Location hozzáadás CLI-ból kézzel és CLI-ból script-tel](screenshots/locationCLI3-script2.jpg)
 ![Location hozzáadás CLI-ból kézzel és CLI-ból script-tel](screenshots/locationCLI-uninstall.jpg)
 
-# Standalone CLI gyakorlat
+# Standalone GUI gyakorlat
 
 ![Standalone GUI gyakorlat](screenshots/locationGUI.jpg)
 ![Standalone GUI gyakorlat](screenshots/locationGUI1.jpg)
