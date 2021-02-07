@@ -39,3 +39,10 @@
 ![Többrétegű alkalmazások gyakorlat](screenshots/tra.jpg)
 ![Többrétegű alkalmazások gyakorlat](screenshots/tra2.jpg)
 ![Többrétegű alkalmazások gyakorlat](screenshots/tra3.jpg)
+
+# Webes alkalmazások gyakorlat
+
+![Webes alkalmazások gyakorlat](screenshots/webapp.jpg)
+![Webes alkalmazások gyakorlat](screenshots/webapp2.jpg)
+![Webes alkalmazások gyakorlat](screenshots/webapp3.jpg)
+![Webes alkalmazások gyakorlat](screenshots/webapp4.jpg)
