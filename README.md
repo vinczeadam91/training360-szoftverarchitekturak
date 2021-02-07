@@ -33,3 +33,9 @@
 ![NOSQL gyakorlat](screenshots/NOSQL2.jpg)
 ![NOSQL gyakorlat](screenshots/NOSQL3.jpg)
 ![NOSQL gyakorlat](screenshots/NOSQL4.jpg)
+
+# Többrétegű alkalmazások gyakorlat
+
+![Többrétegű alkalmazások gyakorlat](screenshots/tra.jpg)
+![Többrétegű alkalmazások gyakorlat](screenshots/tra2.jpg)
+![Többrétegű alkalmazások gyakorlat](screenshots/tra3.jpg)
