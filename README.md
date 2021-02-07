@@ -26,3 +26,10 @@
 ![SQL gyakorlat](screenshots/SQL.jpg)
 ![SQL gyakorlat](screenshots/SQL2.jpg)
 ![SQL gyakorlat](screenshots/SQL3.jpg)
+
+# SQL gyakorlat
+
+![NOSQL gyakorlat](screenshots/NOSQL.jpg)
+![NOSQL gyakorlat](screenshots/NOSQL2.jpg)
+![NOSQL gyakorlat](screenshots/NOSQL3.jpg)
+![NOSQL gyakorlat](screenshots/NOSQL4.jpg)
