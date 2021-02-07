@@ -17,6 +17,6 @@
 
 # Központi Adatbázis gyakorlat
 
-![Központi Adatbázis gyakorlat](screenshots/k\303\266zdb.jpg)
-![Központi Adatbázis gyakorlat](screenshots/k\303\266zdb2.jpg)
-![Központi Adatbázis gyakorlat](screenshots/k\303\266zdb3.jpg)
+![Központi Adatbázis gyakorlat](screenshots/közdb.jpg)
+![Központi Adatbázis gyakorlat](screenshots/közdb2.jpg)
+![Központi Adatbázis gyakorlat](screenshots/közdb3.jpg)
