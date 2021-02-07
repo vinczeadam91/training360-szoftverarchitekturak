@@ -20,3 +20,9 @@
 ![Központi Adatbázis gyakorlat](screenshots/közdb.jpg)
 ![Központi Adatbázis gyakorlat](screenshots/közdb2.jpg)
 ![Központi Adatbázis gyakorlat](screenshots/közdb3.jpg)
+
+# SQL gyakorlat
+
+![SQL gyakorlat](screenshots/SQL.jpg)
+![SQL gyakorlat](screenshots/SQL2.jpg)
+![SQL gyakorlat](screenshots/SQL3.jpg)
