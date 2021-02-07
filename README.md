@@ -14,3 +14,9 @@
 ![Standalone GUI gyakorlat](screenshots/locationGUI1.jpg)
 ![Standalone GUI gyakorlat](screenshots/locationGUI2.jpg)
 ![Standalone GUI gyakorlat](screenshots/locationGUI3.jpg)
+
+# Központi Adatbázis gyakorlat
+
+![Központi Adatbázis gyakorlat](screenshots/közdb.jpg)
+![Központi Adatbázis gyakorlat](screenshots/közdb2.jpg)
+![Központi Adatbázis gyakorlat](screenshots/közdb3.jpg)
