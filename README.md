@@ -46,3 +46,8 @@
 ![Webes alkalmazások gyakorlat](screenshots/webapp2.jpg)
 ![Webes alkalmazások gyakorlat](screenshots/webapp3.jpg)
 ![Webes alkalmazások gyakorlat](screenshots/webapp4.jpg)
+
+# Web formátumai: HTML és CSS gyakorlat
+
+![Web formátumai: HTML és CSS gyakorlat](screenshots/webformat.jpg)
+![Web formátumai: HTML és CSS gyakorlat](screenshots/webformat2.jpg)
