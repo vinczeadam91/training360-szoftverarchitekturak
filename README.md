@@ -51,3 +51,46 @@
 
 ![Web formátumai: HTML és CSS gyakorlat](screenshots/webformat.jpg)
 ![Web formátumai: HTML és CSS gyakorlat](screenshots/webformat2.jpg)
+
+# Webes alkalmazas RIA felülettel - JavaScript gyakorlat
+
+![Webes alkalmazas RIA felülettel - JavaScript gyakorlat](screenshots/RIAjs.jpg)
+![Webes alkalmazas RIA felülettel - JavaScript gyakorlat](screenshots/RIAjs2.jpg)
+
+# Webes alkalmazas RIA felülettel - webes alkalmazás gyakorlat
+
+![Webes alkalmazas RIA felülettel - webes alkalmazás gyakorlat](screenshots/RIAweb.jpg)
+![Webes alkalmazas RIA felülettel - JavaScript gyakorlat](screenshots/RIAweb2.jpg)
+![Webes alkalmazas RIA felülettel - JavaScript gyakorlat](screenshots/RIAweb3.jpg)
+
+# REST webszolgáltatások - Swagger gyakorlat
+
+![REST webszolgáltatások - Swagger gyakorlat](screenshots/Swagger.jpg)
+![REST webszolgáltatások - Swagger gyakorlat](screenshots/Swagger2.jpg)
+![REST webszolgáltatások - Swagger gyakorlat](screenshots/Swagger3.jpg)
+
+# REST webszolgáltatások - Postman gyakorlat
+
+![REST webszolgáltatások - Postman gyakorlat](screenshots/Postman.jpg)
+![REST webszolgáltatások - Postman gyakorlat](screenshots/Postman2.jpg)
+![REST webszolgáltatások - Postman gyakorlat](screenshots/Postman3.jpg)
+![REST webszolgáltatások - Postman gyakorlat](screenshots/Postman4.jpg)
+
+# Szerver alkalmazas webszolgáltatás interfesszel gyakorlat
+
+![Szerver alkalmazas webszolgáltatás interfesszel gyakorlat](screenshots/SoapUI.jpg)
+![Szerver alkalmazas webszolgáltatás interfesszel gyakorlat](screenshots/SoapUI2.jpg)
+![Szerver alkalmazas webszolgáltatás interfesszel gyakorlat](screenshots/SoapUI3.jpg)
+
+# Magas rendelkezésre állás és skálázhatóság gyakorlat
+
+![Magas rendelkezésre állás és skálázhatóság gyakorlat](screenshots/HA.jpg)
+![Magas rendelkezésre állás és skálázhatóság gyakorlat](screenshots/HA2.jpg)
+![Magas rendelkezésre állás és skálázhatóság gyakorlat](screenshots/HA3.jpg)
+![Magas rendelkezésre állás és skálázhatóság gyakorlat](screenshots/HA4.jpg)
+
+# Virtualizació gyakorlat
+
+![Virtualizació gyakorlat](screenshots/Virt.jpg)
+![Virtualizació gyakorlat](screenshots/Virt2.jpg)
+![Virtualizació gyakorlat](screenshots/Virt3.jpg)
